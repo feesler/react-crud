@@ -1,0 +1,22 @@
+.notes__header {
+  margin: 0.5rem 0 1.75rem 0;
+  font-size: 1.75rem;
+  font-weight: normal;
+}
+
+.update-btn {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  background-color: #ffffff;
+  background-image: url(../../assets/update-icon.png);
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.update-btn:focus {
+  outline: 1px dashed;
+}

@@ -1,0 +1,19 @@
+.icon-btn {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  background-color: #ffffff;
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.icon-btn:hover {
+  background-color: #eeeeee;
+}
+
+.icon-btn:focus {
+  outline: 1px dashed;
+}

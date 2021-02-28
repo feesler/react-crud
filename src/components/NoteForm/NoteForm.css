@@ -1,0 +1,28 @@
+.note-form {
+  max-width: 350px;
+  margin-top: 1rem;
+}
+
+.note-form__content-field {
+  position: relative;
+}
+
+.note-form__label {
+  display: block;
+  padding: 1rem;
+}
+
+.note-form__content-input {
+  box-sizing: border-box;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 5rem;
+  padding: 0.75rem;
+}
+
+.note-form__submit-btn {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 100;
+}

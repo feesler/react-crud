@@ -1,0 +1,21 @@
+.note {
+  position: relative;
+  padding: 1.5rem;
+  width: 15rem;
+  height: 10rem;
+  border: 1px solid #000000;
+}
+
+.note__content {
+  display: flex;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.note__delete-btn {
+  position: absolute;
+  top: -1rem;
+  right: -1rem;
+}
