@@ -1,10 +1,10 @@
-# Lesson XXX Homework
+# Lesson 06 Homework
 
 ## React lifecycle and HTTP aware component Notes
 
 ### Materials
 
-- [Task description](LINK HERE)
+- [Task description](https://github.com/netology-code/ra16-homeworks/tree/master/lifecycle-http/crud)
 - [Code style](https://github.com/netology-code/codestyle)
 
 
