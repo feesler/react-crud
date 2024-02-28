@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /netology/06/react-crud/notes/
+
+RewriteRule ^(.*)$ index.php?route=$1 [L,QSA]
+
